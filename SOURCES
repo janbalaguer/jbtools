@@ -1,0 +1,35 @@
+The following code is referenced in this toolbox, but not included :
+
+  GIT                         https://git-scm.com/
+
+ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+
+The following code has been imported (and renamed) within this toolbox :
+
+  ANONYMOUS/CPRINTF.M         Yair M. Altman
+                              altmany@gmail.com
+
+  ANONYMOUS/REDUCE.M          Daniel Roeske
+                              rc@danielroeske.de
+                              http://stackoverflow.com/questions/29875376
+
+  FIGURES/FIG_4D.M            Santiago Herce Castañón
+
+  FIGURES/FIG_DCOLOR.M        John Barber
+
+  FIGURES/FIG_ISLAND.M        Yair M. Altman
+                              altmany@gmail.com
+
+  FILE/FILE_2ABSOLUTE.M       Jan Simon
+                              matlab.2013@n-simon.de
+
+  FUNC/FUNC_IS.M              Jos van der Geest
+                              jos@jasen.nl
+
+  FUNC/FUNC_WAIT.M            Jeremy Scheff
+                              jdscheff@gmail.com
+                              (modified from "progress.m")
+                              
+                              
+  MATVEC/VEC_COMBINATION.M    Jos van der Geest
+                              jos@jasen.nl
